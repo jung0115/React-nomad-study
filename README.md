@@ -7,7 +7,7 @@ in 노마드 코더 Nomad Coders
 1.1 ❤️ 무료 강의 ❤️ (02:59)  
 1.2 Why React (06:29)  
 1.3 Requirements  
-✅ 2022.08.15.월  
+💩 2022.08.15.월  
   
 ### 2. [2021 UPDATE] THE BASICS OF REACT  
 2.0 Introduction (04:05)  
@@ -17,7 +17,7 @@ in 노마드 코더 Nomad Coders
 2.4 Recap (05:47)  
 2.5 JSX (08:22)  
 2.6 JSX part Two (07:19)  
-✅ 2022.08.15.월  
+💩 2022.08.15.월  
   
 ### 3. [2021 UPDATE] STATE  
 3.0 Understanding State (13:34)  
@@ -30,7 +30,7 @@ in 노마드 코더 Nomad Coders
 3.7 State Practice part Two (11:29)  
 3.8 Recap (06:57)  
 3.9 Final Practice and Recap (16:24)  
-✅ 2022.08.21.일
+💩 2022.08.21.일
   
 ### 4. [2021 UPDATE] PROPS  
 4.0 Props (15:24)  
