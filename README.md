@@ -30,7 +30,7 @@ in 노마드 코더 Nomad Coders
 3.7 State Practice part Two (11:29)  
 3.8 Recap (06:57)  
 3.9 Final Practice and Recap (16:24)  
-<span style="color:#adadad">💩 2022.08.21.일</span>
+_💩 2022.08.21.일_  
   
 ### 4. [2021 UPDATE] PROPS  
 4.0 Props (15:24)  
