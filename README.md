@@ -41,7 +41,7 @@ in 노마드 코더 Nomad Coders
   
 ### 5. [2021 UPDATE] CREATE REACT APP  
 5.0 Introduction (09:10)  
-5.1 Tour of CRA (12:40) 
+5.1 Tour of CRA (12:40)  
 |- 2022.08.28.일 💩  
   
 ### 6. [2021 UPDATE] EFFECTS  
