@@ -1,13 +1,25 @@
-import { useState } from "react";
+// 6.4 Cleanup
+import { useState, useEffect } from "react";
+
+function Hello() {
+  useEffect(() => {
+    console.log("Created :)");
+
+    //component가 사라질 때 실행
+    return () => console.log("Destroyed :(");
+  }, []);
+  return <h1>Hello</h1>;
+}
 
 function App() {
-  const [counter, setValue] = useState(0);
-  const onClick = () => setValue((prev) => prev + 1);
-  //console.log("render");
+  const [showing, setShowing] = useState(false);
+  const onClick = () => setShowing(prev => !prev);
   return (
     <div>
-      <h1>{counter}</h1>
-      <button onClick={onClick}>click me</button>
+      {showing ? <Hello /> : null}
+      <button onClick={onClick}>
+        {showing ? "Hide" : "Show"}
+      </button>
     </div>
   );
 }
