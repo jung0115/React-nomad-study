@@ -50,6 +50,7 @@ in 노마드 코더 Nomad Coders
 6.2 Deps (12:03)  
 6.3 Recap (05:05)  
 6.4 Cleanup (13:20)  
+|- 2022.09.04.일 💩  
   
 ### 7. [2021 UPDATE] PRACTICE MOVIE APP  
 7.0 To Do List part One (13:00)  
