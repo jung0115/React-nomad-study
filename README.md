@@ -64,6 +64,7 @@ in 노마드 코더 Nomad Coders
 7.8 Conclusions (01:20)  
 7.9 Styles (05:26)  
 7.10 Next Steps (05:49)  
+|- 2022.09.11.일 💩  
   
 ### 8. INTRODUCTION  
 8.0 🚨 Read this First 🚨  
@@ -71,11 +72,13 @@ in 노마드 코더 Nomad Coders
 8.2 Requirements (04:24)  
 8.2 Theory Requirements (02:17)  
 8.3 Why React (04:44)  
+|- 2022.09.25.일 💩  
   
 ### 9. SETUP  
 9.0 Creating your first React App (05:40)  
 9.1 Creating a Github Repository (02:36)  
 9.2 How does React work? (06:30)  
+|- 2022.09.25.일 💩  
   
 ### 10. JSX & PROPS  
 10.0 Creating your first React Component (06:54)  
@@ -83,6 +86,7 @@ in 노마드 코더 Nomad Coders
 10.2 Dynamic Component Generation (09:54)  
 10.3 map Recap (06:51)  
 10.4 Protection with PropTypes (08:51)  
+|- 2022.11.06.일 💩  
   
 ### 11. STATE  
 11.0 Class Components and State (10:11)  
