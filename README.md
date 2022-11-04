@@ -51,9 +51,10 @@ in 노마드 코더 Nomad Coders
 6.3 Recap (05:05)  
 6.4 Cleanup (13:20)  
 |- 2022.09.04.일 💩  
-
-### Chapter 7~14  
-[Chapter 7~14 Github](https://github.com/jung0115/nomad-movie-appy)  
+  
+### Chapter07  
+[Chapter07 Github](https://github.com/jung0115/nomad-movie-app)  
+[Chapter07 github.io](https://jung0115.github.io/nomad-movie-app/)  
   
 ### 7. [2021 UPDATE] PRACTICE MOVIE APP  
 7.0 To Do List part One (13:00)  
@@ -76,6 +77,9 @@ in 노마드 코더 Nomad Coders
 8.2 Theory Requirements (02:17)  
 8.3 Why React (04:44)  
 |- 2022.09.25.일 💩  
+
+### Chapter09~14  
+[Chapter09~14 Github](https://github.com/jung0115/movie-app-start-from-chap9)  
   
 ### 9. SETUP  
 9.0 Creating your first React App (05:40)  
