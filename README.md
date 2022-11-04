@@ -1,4 +1,4 @@
-# React.js - Create Movie Web Service
+# React.js - Create Movie Web Service _ Chap.1~6
 [ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/react-for-beginners/lobby)  
 in 노마드 코더 Nomad Coders  
 : 2022.07.31.일 ~  
@@ -51,6 +51,9 @@ in 노마드 코더 Nomad Coders
 6.3 Recap (05:05)  
 6.4 Cleanup (13:20)  
 |- 2022.09.04.일 💩  
+
+### Chapter 7~14  
+[Chapter 7~14 Github](https://github.com/jung0115/nomad-movie-appy)  
   
 ### 7. [2021 UPDATE] PRACTICE MOVIE APP  
 7.0 To Do List part One (13:00)  
